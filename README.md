@@ -2,8 +2,8 @@
 
 
 - 🔭 Estou estudando para conseguir uma primeira oportunidade no mercado de Desenvolvimento de Software.
-- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em programação.
+- 🌱 Estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando no Desenvolvimento Full-Stack.
 - 👯 Estou aberta para colaborar em projetos com foco em Desenvolvimento Web.
 - 📫 Contate-me no email: leonoradiniz12@gmail.com
 - 😄 Pronomes: ela/dela
-- ⚡ Curiosidade sobre mim: Sou graduada em Psicologia e pretendo desenvolver projetos que envolvam também essa bagagem.
+- ⚡ Curiosidade sobre mim: Sou graduada em Psicologia, e acredito que minhas experiências com a comunicação e a análise do comportamento humano me ajudam bastante no desenvolvimento de projetos.
