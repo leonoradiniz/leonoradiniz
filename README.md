@@ -1,4 +1,4 @@
-<h1>Olá! Eu sou a Leonora Diniz!🤗</h1>
+<h1>Olá! Eu sou a Leonora Diniz! 🤗</h1>
 
 
 - 🔭 Estou estudando para conseguir uma primeira oportunidade no mercado de Desenvolvimento de Software.
