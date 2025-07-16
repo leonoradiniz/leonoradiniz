@@ -12,5 +12,5 @@
   
 ![GitHub Stats de Leonora Diniz](https://github-readme-stats.vercel.app/api?username=leonoradiniz&show_icons=true&icon_color=FAE873&theme=radical&hide_border=true&border_radius=20px&locale=pt-br)
 <br><br>
-![Top Langs de Leonora Diniz](https://github-readme-stats.vercel.app/api/top-langs/?username=leonoradiniz&theme=radical&hide_border=true&border_radius=20px&locale=pt-br&langs_count=4&layout=compact)
+![Top Langs de Leonora Diniz](https://github-readme-stats.vercel.app/api/top-langs/?username=leonoradiniz&theme=radical&hide_border=true&border_radius=20px&locale=pt-br&langs_count=2&layout=compact)
   
