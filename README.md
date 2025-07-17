@@ -1,4 +1,4 @@
-<h1>Olá, eu sou a Leonora Debs Diniz! 🤗</h1>
+<h1>Olá, eu sou a Leonora Diniz! 🤗</h1>
   Sou uma profissional em constante aprendizado na área de Tecnologia, focada principalmente em Desenvolvimento de Software e Inteligência Artificial.
 <br>
   Tenho como valor aprender desenvolvendo soluções práticas que resolvem desafios e se conectam com a realidade do mercado.
