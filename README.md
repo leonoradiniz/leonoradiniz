@@ -1,9 +1,9 @@
-<h1>Olá, eu sou a Leonora Diniz! 🤗</h1>
+<h1>Olá, eu sou a Leonora Debs Diniz! 🤗</h1>
   Sou uma profissional em constante aprendizado na área de Tecnologia, focada principalmente em Desenvolvimento de Software e Inteligência Artificial.
 <br>
   Tenho como valor aprender desenvolvendo soluções práticas que resolvem desafios e se conectam com a realidade do mercado.
   <h1>Sobre mim</h1>
-  <h4>🖥️ Estudante de Análise e Desenvolvimento de Ssistemas.</h4>
+  <h4>🖥️ Estudante de Análise e Desenvolvimento de Sistemas.</h4>
   <h4>🧠 Graduada em Psicologia, trabalhei na área por 2 anos. A partir dessa formação, trago visões diferenciadas sobre as dores de clientes e os comportamentos de usuários no contexto da Tecnologia.</h4>
   <h4>📚 Estou sempre explorando novas tecnologias e aplicando o que aprendo em projetos práticos.</h4>
   <h4>📘 Atualmente estudando Desenvolvimento Web.</h4>
