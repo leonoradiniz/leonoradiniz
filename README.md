@@ -8,9 +8,9 @@
   <h4>📚 Estou sempre explorando novas tecnologias e aplicando o que aprendo em projetos práticos.</h4>
   <h4>📘 Atualmente estudando Desenvolvimento Web.</h4>
 
-  <h1>GitHub Stats ⭐</h1>
+  <!-- <h1>GitHub Stats ⭐</h1>
   
 ![GitHub Stats de Leonora Diniz](https://github-readme-stats.vercel.app/api?username=leonoradiniz&show_icons=true&icon_color=FAE873&theme=radical&hide_border=true&border_radius=20px&locale=pt-br&cache_seconds=1)
 <br><br>
-![Top Langs de Leonora Diniz](https://github-readme-stats.vercel.app/api/top-langs/?username=leonoradiniz&theme=radical&hide_border=true&border_radius=20px&locale=pt-br&langs_count=5&layout=compact&cache_seconds=1)
+![Top Langs de Leonora Diniz](https://github-readme-stats.vercel.app/api/top-langs/?username=leonoradiniz&theme=radical&hide_border=true&border_radius=20px&locale=pt-br&langs_count=5&layout=compact&cache_seconds=1) -->
   
